@@ -9,7 +9,8 @@ Original file is located at
 
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+pip install matplotlib
+
 import seaborn as sns
 import joblib
 
